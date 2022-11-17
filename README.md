@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @myxzptlk0
-- 👀 I’m interested in programmer ( Problem solving)
-- 🌱 I’m currently learning python,delphi and web development
-- 💞️ I’m looking to collaborate any bigginer web development and coding problems
+- 👋 Hi, I’m Wisdom
+- 👀 Problem Solver
+- 🌱 python,delphi, javascript, react, java, swing, 
+- 💞️ I’m looking to collaborate any begginer projects and coding problems
 - 📫 How to reach me myxzptlk0@gmail.com
 
 <!---
